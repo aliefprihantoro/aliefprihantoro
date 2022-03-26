@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="profil.png" />
   </div>
@@ -36,6 +37,9 @@ Hi, I'm Alief Prihantoro, in social media call me MuryP. I'm a "Front end Develo
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
 ![](https://img.shields.io/badge/Tools-npm-informational?style=flat&logo=npm&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
 ![](https://img.shields.io/badge/Tools-figma-informational?style=flat&logo=figma&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
+![](https://img.shields.io/badge/Tools-tailwind-informational?style=flat&logo=tailwind&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
+![](https://img.shields.io/badge/Tools-postcss-informational?style=flat&logo=postcss&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
+![](https://img.shields.io/badge/Tools-laravel_mix-informational?style=flat&logo=laravelmix&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
 
 ## 🏫 Education :
 ![](https://img.shields.io/badge/High_School-SMA_N_TUNTANG-informational?style=flat&logo=&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
