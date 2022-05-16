@@ -7,8 +7,8 @@
 Alief Prihantoro
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
-<h2 align="center">Front End Developer</h2>
-Hi, I'm Alief Prihantoro, in social media call me MuryP. I'm a "Front end Developer" but I know little about "back end" and "devops". On internet I use social media and blog for my documentations. And I like learn coding from anywhere, especially on Youtube. 
+<h2 align="center">Front End Web Developer</h2>
+Hi, I'm Alief Prihantoro, I'm a Front End web developer. but I can also a little about backend dev, design, and drawing. My english speach is not good, but I can understand what people talk. You can send me text or voice note and I will be respon you with only text (so that there are no misunderstandings).
 <br/>
 
 ## 🤙 Contact Me
@@ -44,13 +44,16 @@ Hi, I'm Alief Prihantoro, in social media call me MuryP. I'm a "Front end Develo
 ## 🏫 Education :
 ![](https://img.shields.io/badge/High_School-SMA_N_TUNTANG-informational?style=flat&logo=&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
 
+## Project :
+[Personal project](https://github.com/stars/alifprihantoro/lists/personal-project)
+
 ## Experient :
 
-### Create Blog with Hugo
+### Create Blog with Hugo and sass
 I use Hugo to create my personal website.  I use hugo for my back end, because it's simple, but meet what I need. I good enough for this framework.
 
-### Create Web whitout framework
-if only a landing page, I think I don't really need a framework, unless I want to create complex landing pages or something great.
+### Create landing page and blog with Hugo, Tailwind, Laravel Mix, and babel
+To make easier my work and clean code.
 
 ### SEO
 Knowing the basics of SEO properly. Which I use on my website and it works pretPersonaid
