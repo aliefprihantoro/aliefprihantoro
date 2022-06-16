@@ -29,6 +29,7 @@ Hi, I'm Alief Prihantoro, I'm a Front End web developer. but I can also a little
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typesctipt&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
 ![](https://img.shields.io/badge/Tools-Sass-informational?style=flat&logo=sass&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
