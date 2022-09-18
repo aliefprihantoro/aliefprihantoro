@@ -1,12 +1,19 @@
 {
   "social_media": {
-    "twitter": ["username"],
-    "facebook": ["username"],
-    "instagram": ["username"],
-    "github": ["username"],
-    "gitlab": ["username"],
-    "bitbucket": ["username"],
-    "web": ["username"]
+    "twitter": ["alifprihantoro", "alifmuryp"],
+    "facebook": ["alifprihantoro", "alifmuryp"],
+    "instagram": ["alifprihantoro", "alifmuryp"],
+    "github": ["alifprihantoro", "alifmuryp"]
+  },
+  "extends_links": {
+    "bitbucket": {
+      "icon": "",
+      "link": ""
+    },
+    "web": {
+      "icon": "iconoir:www",
+      "link": "https://muryp.my.id"
+    }
   },
   "tech_stack": {
     "icon": "name icon"
@@ -46,8 +53,5 @@
       "out": "out from work"
     }
   ],
-  "project": [
-    "user/name-repo",
-    "name-repo"
-  ]
+  "project": ["user/name-repo", "name-repo"]
 }
