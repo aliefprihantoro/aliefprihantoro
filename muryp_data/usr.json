@@ -15,25 +15,68 @@
       "link": "https://muryp.my.id"
     }
   },
-  "tech_stack": ["javascript","css","typescript","tailwind","sass","react","nextjs","html","bash","vim","figma","hugo"],
+  "tech_stack": [
+    "javascript",
+    "css",
+    "typescript",
+    "tailwind",
+    "sass",
+    "react",
+    "nextjs",
+    "html",
+    "bash",
+    "vim",
+    "figma",
+    "hugo"
+  ],
   "certificate": [
     {
-      "image": "./certificate/front.png",
-      "title": "Learn something",
-      "institute": "name of institute give you certivicate",
-      "from": "jun-2022",
+      "image": "/freecodecamp.png",
+      "title": "Front End Development Libraries",
+      "institute": "freeCodeCamp",
+      "from": "Jul 2022",
       "current": false,
-      "to": "jun-2023",
-      "id": "id certivicate",
-      "url": "url certivicate"
+      "to": null,
+      "id": null,
+      "url": "https://freecodecamp.org/certification/alifmuryp/front-end-development-libraries"
+    },
+    {
+      "image": "/freecodecamp.png",
+      "title": "JavaScript Algorithms and Data Structures",
+      "institute": "freeCodeCamp",
+      "from": "Jul 2022",
+      "current": false,
+      "to": null,
+      "id": null,
+      "url": "https://freecodecamp.org/certification/alifmuryp/javascript-algorithms-and-data-structures"
+    },
+    {
+      "image": "/dicoding-id.png",
+      "title": "Belajar Dasar Pemrograman Web",
+      "institute": "Dicoding Indonesia",
+      "from": "Jun 2022",
+      "current": false,
+      "to": "Jun 2025",
+      "id": "6RPND1DWRZ2M",
+      "url": "https://www.dicoding.com/certificates/6RPND1DWRZ2M"
+    },
+    {
+      "image": "/dicoding-id.png",
+      "title": "Belajar Membuat Front-End Web untuk Pemula",
+      "institute": "Dicoding Indonesia",
+      "from": "Jun 2022",
+      "current": false,
+      "to": "Jun 2025",
+      "id": "4EXG5Q5NEXRL",
+      "url": "https://www.dicoding.com/certificates/4EXG5Q5NEXRL"
     }
   ],
-  "pendidikan": [
+  "education": [
     {
-      "name": "name of school",
-      "masuk": "tanggal masuk",
-      "lulus": "tahun lulus",
-      "jurusan": "jurusan"
+      "name": "SMA N Tuntang",
+      "from": "2017",
+      "to": "2020",
+      "field_of_study": "Social Science"
     }
   ],
   "position_now": [
@@ -51,5 +94,5 @@
       "out": "out from work"
     }
   ],
-  "project": ["user/name-repo", "name-repo"]
+  "project": ["raffifauzan/dashboard-sekolah", "muryp-new","serabi-v3","freecode-camp"]
 }
