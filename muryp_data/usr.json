@@ -6,18 +6,16 @@
     "github": ["alifprihantoro", "alifmuryp"]
   },
   "extends_links": {
-    "bitbucket": {
-      "icon": "",
-      "link": ""
+    "gitlab": {
+      "icon": "ant-design:gitlab-filled",
+      "link": "https://gitlab.com/alifprihantoro"
     },
     "web": {
       "icon": "iconoir:www",
       "link": "https://muryp.my.id"
     }
   },
-  "tech_stack": {
-    "icon": "name icon"
-  },
+  "tech_stack": ["javascript","css","typescript","tailwind","sass","react","nextjs","html","bash","vim","figma","hugo"],
   "certificate": [
     {
       "image": "./certificate/front.png",
