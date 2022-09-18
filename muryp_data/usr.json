@@ -1,8 +1,8 @@
 {
   "social_media": {
     "twitter": ["username"],
-    "fb": ["username"],
-    "ig": ["username"],
+    "facebook": ["username"],
+    "instagram": ["username"],
     "github": ["username"],
     "gitlab": ["username"],
     "bitbucket": ["username"],
