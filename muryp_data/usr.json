@@ -31,7 +31,6 @@
   ],
   "certificate": [
     {
-      "image": "/freecodecamp.png",
       "title": "Front End Development Libraries",
       "institute": "freeCodeCamp",
       "from": "Jul 2022",
@@ -41,7 +40,6 @@
       "url": "https://freecodecamp.org/certification/alifmuryp/front-end-development-libraries"
     },
     {
-      "image": "/freecodecamp.png",
       "title": "JavaScript Algorithms and Data Structures",
       "institute": "freeCodeCamp",
       "from": "Jul 2022",
@@ -51,7 +49,6 @@
       "url": "https://freecodecamp.org/certification/alifmuryp/javascript-algorithms-and-data-structures"
     },
     {
-      "image": "/dicoding-id.png",
       "title": "Belajar Dasar Pemrograman Web",
       "institute": "Dicoding Indonesia",
       "from": "Jun 2022",
@@ -61,7 +58,6 @@
       "url": "https://www.dicoding.com/certificates/6RPND1DWRZ2M"
     },
     {
-      "image": "/dicoding-id.png",
       "title": "Belajar Membuat Front-End Web untuk Pemula",
       "institute": "Dicoding Indonesia",
       "from": "Jun 2022",
@@ -79,20 +75,29 @@
       "field_of_study": "Social Science"
     }
   ],
-  "position_now": [
-    {
-      "company": "name of company",
-      "job": "job description",
-      "start": "start work"
-    }
-  ],
+  "position_now": {
+    "company": "name of company",
+    "job": "job description",
+    "start": "start work"
+  },
   "position_past": [
     {
       "company": "name of company",
       "job": "job description",
       "start": "start work",
       "out": "out from work"
+    },
+    {
+      "company": "name of company 2",
+      "job": "job description",
+      "start": "start work",
+      "out": "out from work"
     }
   ],
-  "project": ["raffifauzan/dashboard-sekolah", "muryp-new","serabi-v3","freecode-camp"]
+  "project": [
+    "raffifauzan/dashboard-sekolah",
+    "muryp-new",
+    "serabi-v3",
+    "freecode-camp"
+  ]
 }
