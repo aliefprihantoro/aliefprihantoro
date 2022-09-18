@@ -1,3 +1,53 @@
 {
-"Tes":"ini tes json"
+  "social_media": {
+    "twitter": ["username"],
+    "fb": ["username"],
+    "ig": ["username"],
+    "github": ["username"],
+    "gitlab": ["username"],
+    "bitbucket": ["username"],
+    "web": ["username"]
+  },
+  "tech_stack": {
+    "icon": "name icon"
+  },
+  "certificate": [
+    {
+      "image": "./certificate/front.png",
+      "title": "Learn something",
+      "institute": "name of institute give you certivicate",
+      "from": "jun-2022",
+      "current": false,
+      "to": "jun-2023",
+      "id": "id certivicate",
+      "url": "url certivicate"
+    }
+  ],
+  "pendidikan": [
+    {
+      "name": "name of school",
+      "masuk": "tanggal masuk",
+      "lulus": "tahun lulus",
+      "jurusan": "jurusan"
+    }
+  ],
+  "position_now": [
+    {
+      "company": "name of company",
+      "job": "job description",
+      "start": "start work"
+    }
+  ],
+  "position_past": [
+    {
+      "company": "name of company",
+      "job": "job description",
+      "start": "start work",
+      "out": "out from work"
+    }
+  ],
+  "project": [
+    "user/name-repo",
+    "name-repo"
+  ]
 }
