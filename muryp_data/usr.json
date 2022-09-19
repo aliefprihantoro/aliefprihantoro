@@ -72,24 +72,25 @@
       "name": "SMA N Tuntang",
       "from": "2017",
       "to": "2020",
-      "field_of_study": "Social Science"
+      "field_of_study": "Social Science",
+      "current": false
     }
   ],
   "position_now": {
     "company": "name of company",
-    "job": "job description",
+    "description": "job description",
     "start": "start work"
   },
   "position_past": [
     {
       "company": "name of company",
-      "job": "job description",
+      "description": "job description",
       "start": "start work",
       "out": "out from work"
     },
     {
       "company": "name of company 2",
-      "job": "job description",
+      "description": "job description",
       "start": "start work",
       "out": "out from work"
     }
