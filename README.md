@@ -25,22 +25,22 @@ Hi, I'm Alief Prihantoro, I'm a Front End web developer. but I can also a little
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
-![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
+![](https://img.shields.io/badge/Lang-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
+![](https://img.shields.io/badge/Lang-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
 ![](https://img.shields.io/badge/Tools-Sass-informational?style=flat&logo=sass&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
+![](https://img.shields.io/badge/Lang-CSS-informational?style=flat&logo=css3&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
+![](https://img.shields.io/badge/Lang-HTML5-informational?style=flat&logo=html5&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
 ![](https://img.shields.io/badge/Framework-Hugo-informational?style=flat&logo=hugo&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
 ![](https://img.shields.io/badge/Tools-npm-informational?style=flat&logo=npm&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
 ![](https://img.shields.io/badge/Tools-figma-informational?style=flat&logo=figma&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
 ![](https://img.shields.io/badge/Tools-tailwind-informational?style=flat&logo=tailwindcss&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
-![](https://img.shields.io/badge/Tools-postcss-informational?style=flat&logo=postcss&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
 ![](https://img.shields.io/badge/Lang-lua-informational?style=flat&logo=lua&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
 ![](https://img.shields.io/badge/version_control-git-informational?style=flat&logo=git&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
 ![](https://img.shields.io/badge/Editor-nvim-informational?style=flat&logo=neovim&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
 ![](https://img.shields.io/badge/Tools-nodejs-informational?style=flat&logo=javascript&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
+![](https://img.shields.io/badge/Framework-reactjs-informational?style=flat&logo=react&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
 
 ## 🏫 Education :
 ![](https://img.shields.io/badge/High_School-SMA_N_TUNTANG-informational?style=flat&logo=&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
