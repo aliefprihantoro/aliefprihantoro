@@ -74,7 +74,7 @@ Hi, I'm Alief Prihantoro, I'm a Front End web developer. but I can also a little
 <br/>
 
 ### plug nvim
-[![nvim-muryp-git](https://test-smoky-chi-64.vercel.app/api/pin/?username=muryp&repo=nvim-muryp-git&title_color=ffffff&text_color=c9cacc&icon_color=rgb(0,0,139,.5)&labelColor=00008b&bg_color=1d1f21)](https://github.com/muryp/nvim-muryp-git)
+[![nvim-muryp-git](https://test-smoky-chi-64.vercel.app/api/pin?username=muryp&repo=nvim-muryp-git&title_color=ffffff&text_color=c9cacc&icon_color=rgb(0,0,139,.5)&labelColor=00008b&bg_color=1d1f21)](https://github.com/muryp/nvim-muryp-git)
 [![nvim-conf-lua](https://test-smoky-chi-64.vercel.app/api/pin/?username=muryp&repo=nvim-conf-lua&title_color=ffffff&text_color=c9cacc&icon_color=rgb(0,0,139,.5)&labelColor=00008b&bg_color=1d1f21)](https://github.com/muryp/nvim-conf-lua)
 ### personal project
 [![muryp-new](https://test-smoky-chi-64.vercel.app/api/pin/?username=alifprihantoro&repo=muryp-new&title_color=ffffff&text_color=c9cacc&icon_color=rgb(0,0,139,.5)&labelColor=00008b&bg_color=1d1f21)](https://github.com/alifprihantoro/muryp-new)
