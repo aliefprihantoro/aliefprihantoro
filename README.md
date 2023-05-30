@@ -1,3 +1,4 @@
+
 <div align="center">
   <img width='150px' src="Profil.png" />
 <h1>
@@ -25,12 +26,12 @@ Hi, I'm Alief Prihantoro, I'm a Front End web developer. but I can also a little
 
 ## 🔧 Technologies & Tools
 
-- Programming languages: ![lua](https://img.shields.io/badge/-lua-00008b?style=flat&logo=lua&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b), ![javascript](https://img.shields.io/badge/-javascript-00008b?style=flat&logo=javascript&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b), ![typescript](https://img.shields.io/badge/-typescript-00008b?style=flat&logo=typescript&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
-- Web frameworks: ![astro js](https://img.shields.io/badge/-astro_js-00008b?style=flat&logo=astro&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b), ![hugo](https://img.shields.io/badge/-hugo-00008b?style=flat&logo=hugo&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b), ![webpack js](https://img.shields.io/badge/-webpack_js-00008b?style=flat&logo=webpack&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b), ![hapi](https://img.shields.io/badge/-hapi-00008b?style=flat&logo=hapi&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b), ![react js](https://img.shields.io/badge/-react_js-00008b?style=flat&logo=react&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b), ![next js](https://img.shields.io/badge/-next_js-00008b?style=flat&logo=next.js&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
-- Web design: ![scss](https://img.shields.io/badge/-scss-00008b?style=flat&logo=sass&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b), ![sass](https://img.shields.io/badge/-sass-00008b?style=flat&logo=sass&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b), ![tailwind css](https://img.shields.io/badge/-tailwind_css-00008b?style=flat&logo=tailwind-css&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
-- Version control: ![git](https://img.shields.io/badge/-git-00008b?style=flat&logo=git&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b), ![GitHub](https://img.shields.io/badge/-GitHub-00008b?style=flat&logo=github&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b), ![github action](https://img.shields.io/badge/-github_action-00008b?style=flat&logo=github-actions&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b), ![gitflow](https://img.shields.io/badge/-gitflow-00008b?style=flat&logo=git&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b), ![git version control](https://img.shields.io/badge/-git_version_control-00008b?style=flat&logo=git&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
-- Tools: ![nvim](https://img.shields.io/badge/-nvim-00008b?style=flat&logo=vim&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b), ![bash](https://img.shields.io/badge/-bash-00008b?style=flat&logo=bash&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b), ![linux](https://img.shields.io/badge/-linux-00008b?style=flat&logo=linux&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
-- Hosting: ![firebase](https://img.shields.io/badge/-firebase-00008b?style=flat&logo=firebase&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b), ![netlify](https://img.shields.io/badge/-netlify-00008b?style=flat&logo=netlify&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b), ![vercel](https://img.shields.io/badge/-vercel-00008b?style=flat&logo=vercel&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
+- Programming languages: ![lua](https://img.shields.io/badge/-lua-00008b?style=flat&logo=lua&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b) ![javascript](https://img.shields.io/badge/-javascript-00008b?style=flat&logo=javascript&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b) ![typescript](https://img.shields.io/badge/-typescript-00008b?style=flat&logo=typescript&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
+- Web frameworks: ![astro js](https://img.shields.io/badge/-astro_js-00008b?style=flat&logo=astro&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b) ![hugo](https://img.shields.io/badge/-hugo-00008b?style=flat&logo=hugo&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b) ![webpack js](https://img.shields.io/badge/-webpack_js-00008b?style=flat&logo=webpack&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b) ![hapi](https://img.shields.io/badge/-hapi-00008b?style=flat&logo=hapi&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b) ![react js](https://img.shields.io/badge/-react_js-00008b?style=flat&logo=react&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b) ![next js](https://img.shields.io/badge/-next_js-00008b?style=flat&logo=next.js&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
+- Web design: ![scss](https://img.shields.io/badge/-scss-00008b?style=flat&logo=sass&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b) ![sass](https://img.shields.io/badge/-sass-00008b?style=flat&logo=sass&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b) ![tailwind css](https://img.shields.io/badge/-tailwind_css-00008b?style=flat&logo=tailwind-css&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
+- Version control: ![git](https://img.shields.io/badge/-git-00008b?style=flat&logo=git&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b) ![GitHub](https://img.shields.io/badge/-GitHub-00008b?style=flat&logo=github&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b) ![github action](https://img.shields.io/badge/-github_action-00008b?style=flat&logo=github-actions&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b) ![gitflow](https://img.shields.io/badge/-gitflow-00008b?style=flat&logo=git&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b) ![git version control](https://img.shields.io/badge/-git_version_control-00008b?style=flat&logo=git&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
+- Tools: ![nvim](https://img.shields.io/badge/-nvim-00008b?style=flat&logo=vim&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b) ![bash](https://img.shields.io/badge/-bash-00008b?style=flat&logo=bash&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b) ![linux](https://img.shields.io/badge/-linux-00008b?style=flat&logo=linux&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
+- Hosting: ![firebase](https://img.shields.io/badge/-firebase-00008b?style=flat&logo=firebase&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b) ![netlify](https://img.shields.io/badge/-netlify-00008b?style=flat&logo=netlify&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b) ![vercel](https://img.shields.io/badge/-vercel-00008b?style=flat&logo=vercel&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
 
 ## Project :
 
@@ -66,15 +67,22 @@ Hi, I'm Alief Prihantoro, I'm a Front End web developer. but I can also a little
 <a href="https://github.com/alifprihantoro/alifprihantoro">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifprihantoro&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=rgb(0,0,139,.5)&labelColor=00008b&bg_color=1d1f21" />
 </a>
+<br/>
 <a href="https://github.com/alifprihantoro/alifprihantoro">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alifprihantoro&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=rgb(0,0,139,.5)&labelColor=00008b&bg_color=1d1f21" alt="Alif GitHub Stats" />
 </a>
+<br/>
 
-<a href="https://github.com/alifprihantoro/Latihan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alifprihantoro&repo=Latihan&title_color=ffffff&text_color=c9cacc&icon_color=rgb(0,0,139,.5)&labelColor=00008b&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/alifprihantoro/Material-HTML-CSS-JS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alifprihantoro&repo=Material-HTML-CSS-JS&title_color=ffffff&text_color=c9cacc&icon_color=rgb(0,0,139,.5)&labelColor=00008b&bg_color=1d1f21" />
-</a>    
+### plug nvim
+[![nvim-muryp-git](https://github-readme-stats.vercel.app/api/pin/?username=muryp&repo=nvim-muryp-git&title_color=ffffff&text_color=c9cacc&icon_color=rgb(0,0,139,.5)&labelColor=00008b&bg_color=1d1f21)](https://github.com/muryp/nvim-muryp-git)
+[![nvim-conf-lua](https://github-readme-stats.vercel.app/api/pin/?username=muryp&repo=nvim-conf-lua&title_color=ffffff&text_color=c9cacc&icon_color=rgb(0,0,139,.5)&labelColor=00008b&bg_color=1d1f21)](https://github.com/muryp/nvim-conf-lua)
+### personal project
+[![muryp-new](https://github-readme-stats.vercel.app/api/pin/?username=alifprihantoro&repo=muryp-new&title_color=ffffff&text_color=c9cacc&icon_color=rgb(0,0,139,.5)&labelColor=00008b&bg_color=1d1f21)](https://github.com/alifprihantoro/muryp-new)
+[![serabi-v3](https://github-readme-stats.vercel.app/api/pin/?username=alifprihantoro&repo=serabi-v3&title_color=ffffff&text_color=c9cacc&icon_color=rgb(0,0,139,.5)&labelColor=00008b&bg_color=1d1f21)](https://github.com/alifprihantoro/serabi-v3)
+### learn
+[![learn-astro](https://github-readme-stats.vercel.app/api/pin/?username=alifprihantoro&repo=learn-astro&title_color=ffffff&text_color=c9cacc&icon_color=rgb(0,0,139,.5)&labelColor=00008b&bg_color=1d1f21)](https://github.com/alifprihantoro/learn-astro)
+[![project-dicoding](https://github-readme-stats.vercel.app/api/pin/?username=alifprihantoro&repo=project-dicoding&title_color=ffffff&text_color=c9cacc&icon_color=rgb(0,0,139,.5)&labelColor=00008b&bg_color=1d1f21)](https://github.com/alifprihantoro/project-dicoding)
+[![freecode-camp](https://github-readme-stats.vercel.app/api/pin/?username=alifprihantoro&repo=freecode-camp&title_color=ffffff&text_color=c9cacc&icon_color=rgb(0,0,139,.5)&labelColor=00008b&bg_color=1d1f21)](https://github.com/alifprihantoro/freecode-camp)
+[![project-dicoding-2](https://github-readme-stats.vercel.app/api/pin/?username=alifprihantoro&repo=project-dicoding-2&title_color=ffffff&text_color=c9cacc&icon_color=rgb(0,0,139,.5)&labelColor=00008b&bg_color=1d1f21)](https://github.com/alifprihantoro/project-dicoding-2)
+[![tugas-dicoding-bakend-api-book-app](https://github-readme-stats.vercel.app/api/pin/?username=alifprihantoro&repo=tugas-dicoding-bakend-api-book-app&title_color=ffffff&text_color=c9cacc&icon_color=rgb(0,0,139,.5)&labelColor=00008b&bg_color=1d1f21)](https://github.com/alifprihantoro/tugas-dicoding-bakend-api-book-app)
+[![dicoding-restaurant-app](https://github-readme-stats.vercel.app/api/pin/?username=alifprihantoro&repo=dicoding-restaurant-app&title_color=ffffff&text_color=c9cacc&icon_color=rgb(0,0,139,.5)&labelColor=00008b&bg_color=1d1f21)](https://github.com/alifprihantoro/dicoding-restaurant-app)
