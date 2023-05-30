@@ -65,24 +65,24 @@ Hi, I'm Alief Prihantoro, I'm a Front End web developer. but I can also a little
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/alifprihantoro/alifprihantoro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifprihantoro&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=rgb(0,0,139,.5)&labelColor=00008b&bg_color=1d1f21" />
+  <img align="center" src="https://test-smoky-chi-64.vercel.app/api/top-langs/?username=alifprihantoro&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=rgb(0,0,139,.5)&labelColor=00008b&bg_color=1d1f21" />
 </a>
 <br/>
 <a href="https://github.com/alifprihantoro/alifprihantoro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alifprihantoro&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=rgb(0,0,139,.5)&labelColor=00008b&bg_color=1d1f21" alt="Alif GitHub Stats" />
+  <img align="center" src="https://test-smoky-chi-64.vercel.app/api?username=alifprihantoro&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=rgb(0,0,139,.5)&labelColor=00008b&bg_color=1d1f21" alt="Alif GitHub Stats" />
 </a>
 <br/>
 
 ### plug nvim
-[![nvim-muryp-git](https://github-readme-stats.vercel.app/api/pin/?username=muryp&repo=nvim-muryp-git&title_color=ffffff&text_color=c9cacc&icon_color=rgb(0,0,139,.5)&labelColor=00008b&bg_color=1d1f21)](https://github.com/muryp/nvim-muryp-git)
-[![nvim-conf-lua](https://github-readme-stats.vercel.app/api/pin/?username=muryp&repo=nvim-conf-lua&title_color=ffffff&text_color=c9cacc&icon_color=rgb(0,0,139,.5)&labelColor=00008b&bg_color=1d1f21)](https://github.com/muryp/nvim-conf-lua)
+[![nvim-muryp-git](https://test-smoky-chi-64.vercel.app/api/pin/?username=muryp&repo=nvim-muryp-git&title_color=ffffff&text_color=c9cacc&icon_color=rgb(0,0,139,.5)&labelColor=00008b&bg_color=1d1f21)](https://github.com/muryp/nvim-muryp-git)
+[![nvim-conf-lua](https://test-smoky-chi-64.vercel.app/api/pin/?username=muryp&repo=nvim-conf-lua&title_color=ffffff&text_color=c9cacc&icon_color=rgb(0,0,139,.5)&labelColor=00008b&bg_color=1d1f21)](https://github.com/muryp/nvim-conf-lua)
 ### personal project
-[![muryp-new](https://github-readme-stats.vercel.app/api/pin/?username=alifprihantoro&repo=muryp-new&title_color=ffffff&text_color=c9cacc&icon_color=rgb(0,0,139,.5)&labelColor=00008b&bg_color=1d1f21)](https://github.com/alifprihantoro/muryp-new)
-[![serabi-v3](https://github-readme-stats.vercel.app/api/pin/?username=alifprihantoro&repo=serabi-v3&title_color=ffffff&text_color=c9cacc&icon_color=rgb(0,0,139,.5)&labelColor=00008b&bg_color=1d1f21)](https://github.com/alifprihantoro/serabi-v3)
+[![muryp-new](https://test-smoky-chi-64.vercel.app/api/pin/?username=alifprihantoro&repo=muryp-new&title_color=ffffff&text_color=c9cacc&icon_color=rgb(0,0,139,.5)&labelColor=00008b&bg_color=1d1f21)](https://github.com/alifprihantoro/muryp-new)
+[![serabi-v3](https://test-smoky-chi-64.vercel.app/api/pin/?username=alifprihantoro&repo=serabi-v3&title_color=ffffff&text_color=c9cacc&icon_color=rgb(0,0,139,.5)&labelColor=00008b&bg_color=1d1f21)](https://github.com/alifprihantoro/serabi-v3)
 ### learn
-[![learn-astro](https://github-readme-stats.vercel.app/api/pin/?username=alifprihantoro&repo=learn-astro&title_color=ffffff&text_color=c9cacc&icon_color=rgb(0,0,139,.5)&labelColor=00008b&bg_color=1d1f21)](https://github.com/alifprihantoro/learn-astro)
-[![project-dicoding](https://github-readme-stats.vercel.app/api/pin/?username=alifprihantoro&repo=project-dicoding&title_color=ffffff&text_color=c9cacc&icon_color=rgb(0,0,139,.5)&labelColor=00008b&bg_color=1d1f21)](https://github.com/alifprihantoro/project-dicoding)
-[![freecode-camp](https://github-readme-stats.vercel.app/api/pin/?username=alifprihantoro&repo=freecode-camp&title_color=ffffff&text_color=c9cacc&icon_color=rgb(0,0,139,.5)&labelColor=00008b&bg_color=1d1f21)](https://github.com/alifprihantoro/freecode-camp)
-[![project-dicoding-2](https://github-readme-stats.vercel.app/api/pin/?username=alifprihantoro&repo=project-dicoding-2&title_color=ffffff&text_color=c9cacc&icon_color=rgb(0,0,139,.5)&labelColor=00008b&bg_color=1d1f21)](https://github.com/alifprihantoro/project-dicoding-2)
-[![tugas-dicoding-bakend-api-book-app](https://github-readme-stats.vercel.app/api/pin/?username=alifprihantoro&repo=tugas-dicoding-bakend-api-book-app&title_color=ffffff&text_color=c9cacc&icon_color=rgb(0,0,139,.5)&labelColor=00008b&bg_color=1d1f21)](https://github.com/alifprihantoro/tugas-dicoding-bakend-api-book-app)
-[![dicoding-restaurant-app](https://github-readme-stats.vercel.app/api/pin/?username=alifprihantoro&repo=dicoding-restaurant-app&title_color=ffffff&text_color=c9cacc&icon_color=rgb(0,0,139,.5)&labelColor=00008b&bg_color=1d1f21)](https://github.com/alifprihantoro/dicoding-restaurant-app)
+[![learn-astro](https://test-smoky-chi-64.vercel.app/api/pin/?username=alifprihantoro&repo=learn-astro&title_color=ffffff&text_color=c9cacc&icon_color=rgb(0,0,139,.5)&labelColor=00008b&bg_color=1d1f21)](https://github.com/alifprihantoro/learn-astro)
+[![project-dicoding](https://test-smoky-chi-64.vercel.app/api/pin/?username=alifprihantoro&repo=project-dicoding&title_color=ffffff&text_color=c9cacc&icon_color=rgb(0,0,139,.5)&labelColor=00008b&bg_color=1d1f21)](https://github.com/alifprihantoro/project-dicoding)
+[![freecode-camp](https://test-smoky-chi-64.vercel.app/api/pin/?username=alifprihantoro&repo=freecode-camp&title_color=ffffff&text_color=c9cacc&icon_color=rgb(0,0,139,.5)&labelColor=00008b&bg_color=1d1f21)](https://github.com/alifprihantoro/freecode-camp)
+[![project-dicoding-2](https://test-smoky-chi-64.vercel.app/api/pin/?username=alifprihantoro&repo=project-dicoding-2&title_color=ffffff&text_color=c9cacc&icon_color=rgb(0,0,139,.5)&labelColor=00008b&bg_color=1d1f21)](https://github.com/alifprihantoro/project-dicoding-2)
+[![tugas-dicoding-bakend-api-book-app](https://test-smoky-chi-64.vercel.app/api/pin/?username=alifprihantoro&repo=tugas-dicoding-bakend-api-book-app&title_color=ffffff&text_color=c9cacc&icon_color=rgb(0,0,139,.5)&labelColor=00008b&bg_color=1d1f21)](https://github.com/alifprihantoro/tugas-dicoding-bakend-api-book-app)
+[![dicoding-restaurant-app](https://test-smoky-chi-64.vercel.app/api/pin/?username=alifprihantoro&repo=dicoding-restaurant-app&title_color=ffffff&text_color=c9cacc&icon_color=rgb(0,0,139,.5)&labelColor=00008b&bg_color=1d1f21)](https://github.com/alifprihantoro/dicoding-restaurant-app)
