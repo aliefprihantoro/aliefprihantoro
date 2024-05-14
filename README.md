@@ -1,4 +1,3 @@
-
 <div align="center">
   <img width='150px' src="Profil.png" />
 <h1>
@@ -14,15 +13,14 @@ Hi, I'm Alief Prihantoro, I'm a Front End web developer. but I can also a little
 ![email](https://img.shields.io/badge/alifprihantoro@gmail.com-Email_Me!-informational?style=flat&logo=gmail&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
 ![location](https://img.shields.io/badge/Indonesia,-Central_Java-informational?style=flat&logo=google-maps&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
 
-## 📎 Sosial media & Links: 
+## 📎 Sosial media & Links:
 [![linkedin](https://img.shields.io/badge/alifprihantoro-Follow-informational?style=flat&logo=linkedin&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)](https://linkedin.com/in/alifprihantoro)
 [![instagram](https://img.shields.io/badge/alifprihantoro-Follow-informational?style=flat&logo=instagram&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)](https://instagram.com/alifprihantoro)
 [![twitter](https://img.shields.io/badge/alifprihantoro-Follow-informational?style=flat&logo=twitter&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)](https://twitter.com/alifprihantoro)
 [![facebook](https://img.shields.io/badge/alifprihantoro-like-informational?style=flat&logo=facebook&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)](https://facebook.com/alifprihantoro)
-[![pinterest](https://img.shields.io/badge/alifprihantoro-follow-informational?style=flat&logo=pinterest&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)](https://pinterest.com/alifprihantoro)
 [![github](https://img.shields.io/badge/alifprihantoro-follow-informational?style=flat&logo=github&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)](https://github.com/alifprihantoro)
 [![gitlab](https://img.shields.io/badge/alifprihantoro-follow-informational?style=flat&logo=gitlab&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)](https://gitlab.com/alifprihantoro)
-[![muryp](https://img.shields.io/badge/muryp.my.id-Visit-informational?style=flat&logo=google-chrome&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)](https://muryp.my.id)
+[![portfolio](https://img.shields.io/badge/alifprihantoro.vercel.app-Visit-informational?style=flat&logo=google-chrome&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)](https://muryp.my.id)
 
 ## 🔧 Technologies & Tools
 
@@ -44,7 +42,7 @@ Hi, I'm Alief Prihantoro, I'm a Front End web developer. but I can also a little
   - Wrote clear and comprehensive documentation for each plugin.
 - **Web**
   - Built [web v1 from muryp](https://github.com/muryp/web) using astro js, typescript, scss, tailwind, and other web technologies.
-  - Built [project api to learn from dicoding](https://github.com/alifprihantoro/dicoding-restaurant-app) using javascript and webpack.
+  - Built [restaurant to learn from dicoding](https://github.com/alifprihantoro/dicoding-restaurant-app) using javascript and webpack.
   - Built [web to promote serabi v1](https://github.com/alifprihantoro/serabi) using hugo and sass.
   - Built [project learn from freecode camp](https://github.com/alifprihantoro/freecode-camp) using javascript and sass.
   - Built [old theme muryp](https://github.com/alifprihantoro/muryp-new) using hugo and tailwind.
