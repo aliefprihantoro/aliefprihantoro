@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Languages and Pre-Processors",
+    "list": [
+      "javascript",
+      "node.js",
+      "css3",
+      "typescript",
+      "sass",
+      "html5",
+      "gnubash",
+      "markdown",
+      "lua"
+    ]
+  },
+  {
+    "name": "Frameworks",
+    "list": [
+      "react",
+      "next.js",
+      "tailwindcss",
+      "astro",
+      "hugo"
+    ]
+  },
+  {
+    "name": "Host",
+    "list": [
+      "vercel",
+      "firebase",
+      "netlify",
+      "githubpages"
+    ]
+  },
+  {
+    "name": "Devops",
+    "list": [
+      "githubactions"
+    ]
+  },
+  {
+    "name": "Database",
+    "list": [
+      "mongodb",
+      "mysql",
+      "postgresql"
+    ]
+  },
+  {
+    "name": "Build Tools",
+    "list": [
+      "figma",
+      "Neovim",
+      "Git",
+      "pnpm",
+      "yarn"
+    ]
+  }
+]

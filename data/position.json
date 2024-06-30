@@ -1,0 +1,21 @@
+{
+  "position_now": {
+    "company": "name of company",
+    "description": "job description",
+    "start": "start work"
+  },
+  "position_past": [
+    {
+      "company": "name of company",
+      "description": "job description",
+      "start": "start work",
+      "out": "out from work"
+    },
+    {
+      "company": "name of company 2",
+      "description": "job description",
+      "start": "start work",
+      "out": "out from work"
+    }
+  ]
+}
