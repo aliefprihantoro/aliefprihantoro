@@ -19,20 +19,18 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 22
-      - name: check is profile update
+      - name: update profile and remove pdf
         run: |
-          isProfileUpdate=$(ls assets | grep new.png)
+          isProfileUpdate="$(ls assets | grep new.png)"
           if [ -n "$isProfileUpdate" ]; then
             mv assets/new.png assets/profile.png
           fi
-      - name: execute
-        run: node ./bin/updateReadme.js
-      - name: rm cv
-        run: |
-          checkPdf=$(ls assets | grep .pdf)
+          checkPdf="$(ls assets | grep .pdf)"
           if [ -n "$checkPdf" ]; then
             rm assets/*.pdf
           fi
+      - name: execute
+        run: node ./bin/updateReadme.js
       - uses: docker://pandoc/latex:2.9
         with:
           args: --output=assets/CV_ALIEF_PRIHANTORO_$(date +%d-%m-%Y).pdf README.md
