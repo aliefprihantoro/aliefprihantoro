@@ -5,11 +5,12 @@ on:
     paths:
       - "bin/updateReadme.js"
       - ".github/workflows/readme.yml"
+      - "assets/new.png"
       - "data/**"
       - "!data/**/*.txt"
 
 jobs:
-  build:
+  build_readme:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
@@ -18,12 +19,30 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 22
+      - name: check is profile update
+        run: |
+          isProfileUpdate=$(ls assets/new.png)
+          if [ -z "$isProfileUpdate" ]; then
+            mv assets/new.png assets/profile.png
+          fi
       - name: execute
         run: node ./bin/updateReadme.js
+      - name: rm cv
+        run: |
+          oldCV=$(ls assets/*.pdf)
+          if [ -z "$oldCV" ]; then
+            rm assets/*.pdf
+          fi
+      - uses: docker://pandoc/latex:2.9
+        with:
+          args: --output=assets/CV_ALIEF_PRIHANTORO_$(date +%d-%m-%Y).pdf README.md
+      - name: add links to top README
+        run: |
+          sed -i '1i\n\n[![CV](https://img.shields.io/badge/CV-Download-informational?style=flat&logo=googledocs&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)](./assets/CV_ALIEF_PRIHANTORO_$(date +%d-%m-%Y).pdf)\n\n' README.md
       - name: Commit changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "[CI] update readme"
+          git commit -m "[CI] update readme and assets"
           git push
