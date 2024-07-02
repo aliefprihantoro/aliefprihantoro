@@ -1,7 +1,7 @@
 name: UPDATE README
 
 on:
-  pull_request:
+  push:
     paths:
       - "bin/updateReadme.js"
       - "data/**"
