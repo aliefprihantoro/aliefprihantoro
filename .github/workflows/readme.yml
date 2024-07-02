@@ -4,13 +4,9 @@ on:
   push:
     paths:
       - "bin/updateReadme.js"
+      - ".github/workflow/readme.yml"
       - "data/**"
       - "!data/**/*.txt"
-  workflow_dispatch:
-    inputs:
-      my_input:
-        description: 'update readme'
-        required: true
 
 jobs:
   build:
