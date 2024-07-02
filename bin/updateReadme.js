@@ -1,5 +1,15 @@
 const fs = require("fs");
 
+// UPDATE ASSETS
+const isProfileUpdate = fs.existsSync("./assets/new.png");
+if (isProfileUpdate) {
+  fs.renameSync("./assets/new.png", "./assets/profile.png");
+}
+const checkPdf = fs.existsSync("./assets/*.pdf");
+if (checkPdf) {
+  fs.rmSync("./assets/*.pdf");
+}
+
 const jsonToObj = (path) => JSON.parse(fs.readFileSync(path, "utf8"));
 const DESCRIPTION = fs.readFileSync("./data/description.md", "utf8");
 const CONTACT = jsonToObj("./data/contact.json");
