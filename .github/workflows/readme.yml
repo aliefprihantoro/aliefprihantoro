@@ -21,16 +21,16 @@ jobs:
           node-version: 22
       - name: check is profile update
         run: |
-          isProfileUpdate=$(ls assets/new.png)
-          if [ -z "$isProfileUpdate" ]; then
+          isProfileUpdate=$(ls assets | grep new.png)
+          if [ -n "$isProfileUpdate" ]; then
             mv assets/new.png assets/profile.png
           fi
       - name: execute
         run: node ./bin/updateReadme.js
       - name: rm cv
         run: |
-          oldCV=$(ls assets/*.pdf)
-          if [ -z "$oldCV" ]; then
+          checkPdf=$(ls assets | grep .pdf)
+          if [ -n "$checkPdf" ]; then
             rm assets/*.pdf
           fi
       - uses: docker://pandoc/latex:2.9
