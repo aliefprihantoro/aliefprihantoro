@@ -1,0 +1,27 @@
+name: UPDATE README
+
+on:
+  pull_request:
+    paths:
+      - "bin/updateReadme.js"
+      - "data/**"
+      - "!data/**/*.txt"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 22
+      - name: execute
+        run: node ./bin/updateReadme.js
+      - name: Commit changes
+        run: |
+          git config --global user.email "alifprihantoro@gmail.com"
+          git config --global user.name "alifprihantoro"
+          git add .
+          git commit -m "[CI] update readme"

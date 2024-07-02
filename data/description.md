@@ -3,7 +3,9 @@
 <h1>
 Alief Prihantoro
 </h1>
-<h2 align="center">Front End Web Developer</h2>
+<h2 align="center">Full Stack Dev (expert in front end)</h2>
 </div>
-Hi, I'm Alief Prihantoro, I'm a Front End web developer. but I can also a little about backend dev, design, and drawing. My english speach is not good, but I can understand what people talk. You can send me text or voice note and I will be respon you with only text (so that there are no misunderstandings).
+Hello, I'm alif. I can build fullstack web apps with: typescript, tailwind, astrojs, etc. I love sharing information about linux, open source, neovim, and web.
 <br/>
+
+[![CV](https://img.shields.io/badge/CV-Download-informational?style=flat&logo=googledocs&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)](assets/cv/current.pdf)

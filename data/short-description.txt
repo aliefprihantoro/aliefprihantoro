@@ -1,0 +1,1 @@
+Full stack web dev with astrojs, tailwind, etc. sharing about web and open source project like neovim, linux.
