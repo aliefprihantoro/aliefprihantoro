@@ -1,3 +1,7 @@
+n
+[![CV](https://img.shields.io/badge/CV-Download-informational?style=flat&logo=googledocs&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)](./assets/CV_ALIEF_PRIHANTORO_$(date +%d-%m-%Y).pdf)
+
+
 <div align="center">
   <img width='150px' src="assets/profile/curr.png" />
 <h1>
@@ -7,8 +11,6 @@ Alief Prihantoro
 </div>
 Hello, I'm alif. I can build fullstack web apps with: typescript, tailwind, astrojs, etc. I love sharing information about linux, open source, neovim, and web.
 <br/>
-
-[![CV](https://img.shields.io/badge/CV-Download-informational?style=flat&logo=googledocs&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)](assets/cv/current.pdf)
 
 ## CONTACT
 ![telp](https://img.shields.io/badge/+6283_8293_83123-Call_Me!-informational?style=flat&logo=whatsapp&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
