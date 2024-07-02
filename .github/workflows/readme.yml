@@ -26,7 +26,8 @@ jobs:
         run: node ./bin/updateReadme.js
       - name: Commit changes
         run: |
-          git config --global user.email "alifprihantoro@gmail.com"
-          git config --global user.name "alifprihantoro"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add .
           git commit -m "[CI] update readme"
+          git push
