@@ -1,5 +1,5 @@
 <div align="center">
-  <img width='150px' src="assets/profile/curr.png" />
+  <img width='150px' src="assets/profile.png" />
 <h1>
 Alief Prihantoro
 </h1>

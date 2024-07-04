@@ -19,16 +19,15 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 22
-      - name: execute
+      - name: write readme
         run: node ./bin/updateReadme.js
+      - name: write cv
+        run: node ./bin/updateCv.js
       - uses: docker://pandoc/latex:2.9
         with:
-          args: --output=assets/CV_ALIEF_PRIHANTORO.pdf README.md
-      - name: rename cv
-        run: mv assets/CV_ALIEF_PRIHANTORO.pdf assets/CV_ALIEF_PRIHANTORO_$(date +%d-%m-%Y).pdf
-      - name: add links to top README
-        run: |
-          sed -i '1i\n\n[![CV](https://img.shields.io/badge/CV-Download-informational?style=flat&logo=googledocs&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)](./assets/CV_ALIEF_PRIHANTORO_$(date +%d-%m-%Y).pdf)\n\n' README.md
+          args: --output=assets/CV_ALIEF_PRIHANTORO.pdf --template "./eisvogel.tex" --listings README.md
+      - name: mv cv
+        run: node ./bin/moveCv.js
       - name: Commit changes
         run: |
           git config --global user.name "github-actions[bot]"
