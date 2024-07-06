@@ -1,3 +1,4 @@
+import fs from "fs";
 const jsonToObj = (path) => JSON.parse(fs.readFileSync(path, "utf8"));
 export const DESCRIPTION = fs.readFileSync("./data/description.md", "utf8");
 export const CONTACT = jsonToObj("./data/contact.json");

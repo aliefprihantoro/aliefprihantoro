@@ -1,5 +1,5 @@
-const fs = require("fs");
-const {
+import { existsSync, renameSync, rmSync, writeFileSync } from "fs";
+import {
   DESCRIPTION,
   CONTACT,
   TECH,
@@ -7,16 +7,16 @@ const {
   CERTIVICATE,
   PROJECT_WEB,
   PROJECT_NVIM,
-} = require("./data");
+} from "./data.mjs";
 
 // UPDATE ASSETS
-const isProfileUpdate = fs.existsSync("./assets/new.png");
+const isProfileUpdate = existsSync("./assets/new.png");
 if (isProfileUpdate) {
-  fs.renameSync("./assets/new.png", "./assets/profile.png");
+  renameSync("./assets/new.png", "./assets/profile.png");
 }
-const checkPdf = fs.existsSync("./assets/*.pdf");
+const checkPdf = existsSync("./assets/*.pdf");
 if (checkPdf) {
-  fs.rmSync("./assets/*.pdf");
+  rmSync("./assets/*.pdf");
 }
 
 let update_cv = DESCRIPTION;
@@ -51,4 +51,4 @@ update_cv += `
 ${CERTIVICATE.map(({ title, institute, from, to, url }) => `- [${title}](${url}): ${institute} | ${from}${to ? " - " : ""}${to || ""}`).join("\n")}
 `;
 
-fs.writeFileSync("./CV.md", update_cv);
+writeFileSync("./CV.md", update_cv);
