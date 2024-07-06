@@ -22,14 +22,14 @@ jobs:
         with:
           node-version: 22
       - name: write readme
-        run: node ./bin/updateReadme.js
+        run: node ./bin/updateReadme.mjs
       - name: write cv
-        run: node ./bin/updateCv.js
+        run: node ./bin/updateCv.mjs
       - uses: docker://pandoc/latex:2.9
         with:
           args: --output=assets/CV_ALIEF_PRIHANTORO.pdf --template "./eisvogel.tex" --listings README.md
       - name: mv cv
-        run: node ./bin/moveCv.js
+        run: node ./bin/moveCv.mjs
       - name: Commit changes
         run: |
           git config --global user.name "github-actions[bot]"
