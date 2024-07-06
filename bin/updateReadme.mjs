@@ -1,5 +1,5 @@
-const fs = require("fs");
-const {
+import { writeFileSync } from "fs";
+import {
   DESCRIPTION,
   CONTACT,
   TECH,
@@ -8,7 +8,7 @@ const {
   PROJECT_WEB,
   PROJECT_NVIM,
   CV_PATH,
-} = require("./data");
+} from "./data.mjs";
 
 let readme = DESCRIPTION;
 readme += `
@@ -54,4 +54,4 @@ readme += `
 ${CERTIVICATE.map(({ title, institute, from, to, url }) => `- [${title}](${url}): ${institute} | ${from}${to ? " - " : ""}${to || ""}`).join("\n")}
 `;
 
-fs.writeFileSync("./README.md", readme);
+writeFileSync("./README.md", readme);
