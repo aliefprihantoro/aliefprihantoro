@@ -34,12 +34,17 @@ jobs:
       #   with:
       #     # args: --output=assets/CV_ALIEF_PRIHANTORO.pdf --template "./eisvogel.tex" --listings CV.md
       #     args: --output=assets/CV_ALIEF_PRIHANTORO.pdf --listings CV.md
+      # - uses: docker://pandoc/extra:latest
+      #   with:
+      #     args: --output=assets/tesJb2Resume.pdf --template "./jb2resume.tex" tesJb2Resume.md
+      # - uses: docker://pandoc/extra:latest
+      #   with:
+      #     args: --output=assets/tesJb2cv.pdf --template "jb2modern.tex" tesJb2cv.md
+      # # - name: mv cv
+      # #   run: node ./bin/moveCv.mjs
       - uses: docker://pandoc/extra:latest
         with:
-          args: --output=assets/tesJb2Resume.pdf --template "./jb2resume.tex" tesJb2Resume.md
-      - uses: docker://pandoc/extra:latest
-        with:
-          args: --output=assets/tesJb2cv.pdf --template "jb2modern.tex" tesJb2cv.md
+          args: example.html -t html5 -o example.pdf --pdf-engine weasyprint --standalone
       # - name: mv cv
       #   run: node ./bin/moveCv.mjs
       - name: Commit changes
