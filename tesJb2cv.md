@@ -1,4 +1,12 @@
 ---
+header-includes: |
+  <style>
+  h1,h2,h3,h4 {
+    font-style: bold;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  </style>
 name: John Bokma
 keywords: perl, modern perl, cpan, cgi, nginx, apache, algorithms,
     freelance, msc, senior perl developer, xml, xslt, mysql, crawling,
