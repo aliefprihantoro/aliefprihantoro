@@ -27,7 +27,7 @@ jobs:
         run: node ./bin/updateCv.mjs
       - uses: docker://pandoc/latex:latest
         with:
-          args: --output=assets/CV_ALIEF_PRIHANTORO.pdf --template "./eisvogel.tex" --listings README.md
+          args: --output=assets/CV_ALIEF_PRIHANTORO.pdf --template "./eisvogel.tex" --listings CV.md
       - name: mv cv
         run: node ./bin/moveCv.mjs
       - name: Commit changes
