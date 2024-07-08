@@ -44,7 +44,7 @@ jobs:
       # #   run: node ./bin/moveCv.mjs
       - uses: docker://pandoc/extra:latest
         with:
-          args: example.html -t html5 -o example.pdf --pdf-engine weasyprint --standalone
+          args: example.html -t html5 -o example.pdf --standalone
       # - name: mv cv
       #   run: node ./bin/moveCv.mjs
       - name: Commit changes
