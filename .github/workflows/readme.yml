@@ -25,10 +25,16 @@ jobs:
         run: node ./bin/updateReadme.mjs
       - name: write cv
         run: node ./bin/updateCv.mjs
+      # - uses: docker://pandoc/extra:latest
+      #   with:
+      #     # args: --output=assets/CV_ALIEF_PRIHANTORO.pdf --template "./eisvogel.tex" --listings CV.md
+      #     args: --output=assets/CV_ALIEF_PRIHANTORO.pdf --listings CV.md
       - uses: docker://pandoc/extra:latest
         with:
-          # args: --output=assets/CV_ALIEF_PRIHANTORO.pdf --template "./eisvogel.tex" --listings CV.md
-          args: --output=assets/CV_ALIEF_PRIHANTORO.pdf --listings CV.md
+          args: --output=assets/tesJb2Resume.md --template "./jb2resume.tex" CV.md
+      - uses: docker://pandoc/extra:latest
+        with:
+          args: --output=assets/tesJb2cv.md --template "jb2modern.tex" CV.md
       - name: mv cv
         run: node ./bin/moveCv.mjs
       - name: Commit changes
