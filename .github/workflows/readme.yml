@@ -25,7 +25,7 @@ jobs:
         run: node ./bin/updateReadme.mjs
       - name: write cv
         run: node ./bin/updateCv.mjs
-      - uses: docker://pandoc/latex:2.9
+      - uses: docker://pandoc/latex:latest
         with:
           args: --output=assets/CV_ALIEF_PRIHANTORO.pdf --template "./eisvogel.tex" --listings README.md
       - name: mv cv
