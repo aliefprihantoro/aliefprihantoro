@@ -35,8 +35,8 @@ jobs:
       - uses: docker://pandoc/extra:latest
         with:
           args: --output=assets/tesJb2cv.md --template "jb2modern.tex" CV.md
-      - name: mv cv
-        run: node ./bin/moveCv.mjs
+      # - name: mv cv
+      #   run: node ./bin/moveCv.mjs
       - name: Commit changes
         run: |
           git config --global user.name "github-actions[bot]"
