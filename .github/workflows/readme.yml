@@ -31,10 +31,10 @@ jobs:
       #     args: --output=assets/CV_ALIEF_PRIHANTORO.pdf --listings CV.md
       - uses: docker://pandoc/extra:latest
         with:
-          args: --output=assets/tesJb2Resume.md --template "./jb2resume.tex" CV.md
+          args: --output=assets/tesJb2Resume.pdf --template "./jb2resume.tex" tesJb2Resume.md
       - uses: docker://pandoc/extra:latest
         with:
-          args: --output=assets/tesJb2cv.md --template "jb2modern.tex" CV.md
+          args: --output=assets/tesJb2cv.pdf --template "jb2modern.tex" tesJb2cv.md
       # - name: mv cv
       #   run: node ./bin/moveCv.mjs
       - name: Commit changes
