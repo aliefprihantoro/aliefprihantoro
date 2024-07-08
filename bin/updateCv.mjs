@@ -42,6 +42,7 @@ ${PROJECT_WEB.map(({ title, repo, preview }) => {
   preview = preview ? ` | [preview](${preview})` : "";
   return `- ${title}: ${repo}${preview}`;
 }).join("\n")}
+
 ### NVIM
 ${PROJECT_NVIM.map((name) => `- [${name}](https://github.com/muryp/${name})`).join("\n")}
 `;
