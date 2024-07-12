@@ -1,5 +1,9 @@
 {
-  "name": "",
+  "name": "alifprihantoro",
+  "version": "1.0.0",
+  "description": "readme",
+  "author": "alifprihantoro",
+  "type": "module",
   "scripts": {
     "readme": "node ./bin/index.mjs"
   },
