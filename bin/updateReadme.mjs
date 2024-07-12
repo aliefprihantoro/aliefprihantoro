@@ -12,16 +12,11 @@ import {
 
 export default function () {
   let readme = `
-<div align="center">
-  <img width='150px' src="assets/profile.png" />
-<h1>
-${HEADER.name}
-</h1>
-<h2 align="center">${HEADER.role}</h2>
-</div>
-LANGUAGE : ID | EN
+# ${HEADER.name}
+### ${HEADER.role}
+> LANGUAGE : ID | EN
+
 ${HEADER.description}
-<br/>
 
 `;
   readme += `
