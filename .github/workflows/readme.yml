@@ -45,7 +45,7 @@ jobs:
             ${{ runner.os }}-pnpm-store-
       - name: Install dependencies
         run: pnpm install
-      - name: lint
+      - name: update readme and cv
         run: |
           pnpm readme
       - name: Commit changes
