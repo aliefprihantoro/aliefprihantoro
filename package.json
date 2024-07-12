@@ -4,5 +4,10 @@
   "description": "readme",
   "author": "alifprihantoro",
   "type": "module",
-  "license": "ISC"
+  "scripts": {
+    "readme": "node ./bin/index.mjs"
+  },
+  "dependencies": {
+    "pdfkit": "^0.15.0"
+  }
 }
