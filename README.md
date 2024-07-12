@@ -1,14 +1,9 @@
 
-<div align="center">
-  <img width='150px' src="assets/profile.png" />
-<h1>
-ALIEF PRIHANTORO
-</h1>
-<h2 align="center">FULLSTACK WEB DEV</h2>
-</div>
-LANGUAGE : ID | EN
-Hello, I'm alif. I can build [fullstack](fullstack) web apps with: typescript, tailwind, astrojs, etc. I love sharing information about linux, open source, neovim, and web.
-<br/>
+# ALIEF PRIHANTORO
+### FULLSTACK WEB DEV
+> LANGUAGE : ID | EN
+
+Hello, I'm alif. I can build fullstack web apps with: typescript, tailwind, astrojs, etc. I love sharing information about linux, open source, neovim, and web.
 
 
 [![CV](https://img.shields.io/badge/CV-Download-informational?style=flat&logo=googledocs&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)](assets/CV_ALIEF_PRIHANTORO_July-12-2024.pdf)
