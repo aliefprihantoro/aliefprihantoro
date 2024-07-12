@@ -1,4 +1,4 @@
-name: UPDATE README
+name: UPDATE REAME
 
 on:
   push:
@@ -7,13 +7,12 @@ on:
     paths:
       - "bin/updateReadme.js"
       - ".github/workflows/readme.yml"
-      - "assets/new.png"
       - "data/**"
       - "!data/**/*.txt"
   workflow_dispatch:
     inputs:
       my_input:
-        description: 'testing e2e'
+        description: 'update readme'
         required: true
 
 jobs:
@@ -26,27 +25,29 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 22
-      - name: write readme
-        run: node ./bin/updateReadme.mjs
-      - name: write cv
-        run: node ./bin/updateCv.mjs
-      # - uses: docker://pandoc/extra:latest
-      #   with:
-      #     # args: --output=assets/CV_ALIEF_PRIHANTORO.pdf --template "./eisvogel.tex" --listings CV.md
-      #     args: --output=assets/CV_ALIEF_PRIHANTORO.pdf --listings CV.md
-      - uses: docker://pandoc/extra:latest
+      - uses: pnpm/action-setup@v2
+        name: Install pnpm
         with:
-          args: --output=assets/tesJb2Resume.pdf --pdf-engine lualatex --template "./jb2resume.tex" tesJb2Resume.md
-      - uses: docker://pandoc/extra:latest
+          version: 8
+          run_install: false
+
+      - name: Get pnpm store directory
+        shell: bash
+        run: |
+          echo "STORE_PATH=$(pnpm store path --silent)" >> $GITHUB_ENV
+
+      - uses: actions/cache@v3
+        name: Setup pnpm cache
         with:
-          args: --output=assets/tesJb2cv.pdf --pdf-engine lualatex --template "jb2modern.tex" tesJb2cv.md
-      # - name: mv cv
-      #   run: node ./bin/moveCv.mjs
-      # - uses: docker://pandoc/extra:latest
-      #   with:
-      #     args: example.html -t html5 -o example.pdf --standalone
-      # # - name: mv cv
-      # #   run: node ./bin/moveCv.mjs
+          path: ${{ env.STORE_PATH }}
+          key: ${{ runner.os }}-pnpm-store-${{ hashFiles('**/pnpm-lock.yaml') }}
+          restore-keys: |
+            ${{ runner.os }}-pnpm-store-
+      - name: Install dependencies
+        run: pnpm install
+      - name: lint
+        run: |
+          pnpm readme
       - name: Commit changes
         run: |
           git config --global user.name "github-actions[bot]"
