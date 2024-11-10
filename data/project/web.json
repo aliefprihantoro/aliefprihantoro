@@ -1,5 +1,26 @@
 [
   {
+    "title": "personal web",
+    "repo": "alifprihantoro/web",
+    "preview": [
+      "https://alifprihantoro.vercel.app/"
+    ]
+  },
+  {
+    "title": "Todo Quest",
+    "repo": "muryp/quest-todo",
+    "preview": [
+      "https://muryp.github.io/quest-todo"
+    ]
+  },
+  {
+    "title": "Web News (Pawarta)",
+    "repo": "alifprihantoro/pawartatech",
+    "preview": [
+      "https://pawartatech.blogspot.com/"
+    ]
+  },
+  {
     "title": "web v1 from muryp",
     "repo": "muryp/web"
   },
@@ -9,10 +30,7 @@
   },
   {
     "title": "web to promote serabi v1",
-    "repo": "alifprihantoro/serabi",
-    "preview": [
-      "https://bicor.netlify.com"
-    ]
+    "repo": "alifprihantoro/serabi"
   },
   {
     "title": "project learn from freecode camp",
@@ -20,10 +38,7 @@
   },
   {
     "title": "old theme muryp",
-    "repo": "alifprihantoro/muryp-new",
-    "preview": [
-      "https://muryp.netlify.com"
-    ]
+    "repo": "alifprihantoro/muryp-new"
   },
   {
     "title": "project api to learn from dicoding",
