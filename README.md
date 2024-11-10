@@ -26,29 +26,47 @@ Hello, I'm alif. I can build fullstack web apps with: typescript, tailwind, astr
 
 ## PROJECT
 ### WEB
-- personal web: 
+- personal web
+
 static website for show my portfolio. With astro, storybook, tailwindcss, etc
+
 [repo](https://github.com/alifprihantoro/web) | [preview](https://alifprihantoro.vercel.app/)
 
-- Todo Quest: 
+
+- Todo Quest
+
 Web app todo list. Single page app(SPA). With Vite, tailwindcss, etc
+
 [repo](https://github.com/muryp/quest-todo) | [preview](https://muryp.github.io/quest-todo)
 
-- Web News (Pawarta): 
+
+- Web News (Pawarta)
+
 Template blogger. With astrojs, vite, tailwindcss, etc
+
 [repo](https://github.com/alifprihantoro/pawartatech) | [preview](https://pawartatech.blogspot.com/)
 
-- project api to learn from dicoding: 
+
+- project api to learn from dicoding
+
+
 
 [repo](https://github.com/alifprihantoro/dicoding-restaurant-app)
 
-- project learn from freecode camp: 
+
+- project learn from freecode camp
+
+
 
 [repo](https://github.com/alifprihantoro/freecode-camp)
 
-- project api to learn from dicoding: 
+
+- project api to learn from dicoding
+
+
 
 [repo](https://github.com/alifprihantoro/tugas-dicoding-bakend-api-book-app)
+
 
 ### NVIM
 - [muryp-gh.nvim](https://github.com/muryp/muryp-gh.nvim)
