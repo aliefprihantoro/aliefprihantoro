@@ -1,6 +1,7 @@
 [
   {
-    "name": "firefoxbrowser",
+    "name": "web",
+    "icon": "firefoxbrowser",
     "url": "https://alifprihantoro.vercel.app",
     "username": "alifprihantoro"
   },
@@ -51,7 +52,6 @@
   },
   {
     "name": "discord",
-    "url": "https://discord.com/invite/EzHgpHquHC",
-    "username": "muryp"
+    "url": "https://discord.com/invite/EzHgpHquHC"
   }
 ]

@@ -31,8 +31,8 @@ ${HEADER.description}
 `;
 
   const btnLinks = LINKS.map(
-    ({ name, username, url }) =>
-      `[![${name}](https://img.shields.io/badge/${username || name}-visit-informational?style=flat&logo=${name}&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)](${url}${username || ""})`,
+    ({ name, icon, username, url }) =>
+      `[![${name}](https://img.shields.io/badge/${username || name}-visit-informational?style=flat&logo=${icon || name}&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)](${url}${username || ""})`,
   ).join("  ");
 
   readme += `

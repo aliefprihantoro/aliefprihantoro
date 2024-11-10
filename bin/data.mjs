@@ -9,7 +9,7 @@ export const HEADER = jsonToObj("./data/header.json");
  */
 export const CONTACT = jsonToObj("./data/contact.json");
 /**
- * @type {{name:string,url:string,username:string}[]}
+ * @type {{name:string,icon?:string,url:string,username?:string}[]}
  */
 export const LINKS = jsonToObj("./data/links.json");
 
