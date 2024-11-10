@@ -2,6 +2,7 @@
   {
     "title": "personal web",
     "repo": "alifprihantoro/web",
+    "description": "static website for show my portfolio. With astro, storybook, tailwindcss, etc",
     "preview": [
       "https://alifprihantoro.vercel.app/"
     ]
@@ -9,6 +10,7 @@
   {
     "title": "Todo Quest",
     "repo": "muryp/quest-todo",
+    "description": "Web app todo list. Single page app(SPA). With Vite, tailwindcss, etc",
     "preview": [
       "https://muryp.github.io/quest-todo"
     ]
@@ -16,29 +18,18 @@
   {
     "title": "Web News (Pawarta)",
     "repo": "alifprihantoro/pawartatech",
+    "description": "Template blogger. With astrojs, vite, tailwindcss, etc",
     "preview": [
       "https://pawartatech.blogspot.com/"
     ]
-  },
-  {
-    "title": "web v1 from muryp",
-    "repo": "muryp/web"
   },
   {
     "title": "project api to learn from dicoding",
     "repo": "alifprihantoro/dicoding-restaurant-app"
   },
   {
-    "title": "web to promote serabi v1",
-    "repo": "alifprihantoro/serabi"
-  },
-  {
     "title": "project learn from freecode camp",
     "repo": "alifprihantoro/freecode-camp"
-  },
-  {
-    "title": "old theme muryp",
-    "repo": "alifprihantoro/muryp-new"
   },
   {
     "title": "project api to learn from dicoding",

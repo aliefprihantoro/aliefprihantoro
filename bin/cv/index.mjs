@@ -36,11 +36,15 @@ export default function () {
     });
     doc.moveDown();
     heading(doc, "PROJECT WEB");
-    PROJECT_WEB.forEach(({ title, repo }) => {
+    PROJECT_WEB.forEach(({ title, repo, description }) => {
       List(doc, (docc) => {
-        docc.fontSize(10).text(title, {
-          link: repo,
-        });
+        docc
+          .fontSize(10)
+          .text(title, {
+            link: "https://github.com/" + repo,
+          })
+          .font("regular")
+          .text(description || "");
       });
     });
     heading(doc, "PROJECT NVIM");
