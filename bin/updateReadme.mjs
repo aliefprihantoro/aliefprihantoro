@@ -51,9 +51,12 @@ ${TECH.map(({ name, list }) => `- ${name}: ${list.map((name) => `![${name}](http
 ${PROJECT_WEB.map(({ title, repo, preview, description }) => {
   repo = `[repo](https://github.com/${repo})`;
   preview = preview ? ` | [preview](${preview})` : "";
-  return `- ${title}: 
+  return `- ${title}
+
 ${description || ""}
+
 ${repo}${preview}
+
 `;
 }).join("\n")}
 ### NVIM
