@@ -47,6 +47,7 @@ export default function () {
           .text(description || "");
       });
     });
+    doc.moveDown();
     heading(doc, "PROJECT NVIM");
     PROJECT_NVIM.forEach((repo) => {
       List(doc, (docc) => {
