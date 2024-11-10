@@ -48,10 +48,13 @@ ${TECH.map(({ name, list }) => `- ${name}: ${list.map((name) => `![${name}](http
   readme += `
 ## PROJECT
 ### WEB
-${PROJECT_WEB.map(({ title, repo, preview }) => {
+${PROJECT_WEB.map(({ title, repo, preview, description }) => {
   repo = `[repo](https://github.com/${repo})`;
   preview = preview ? ` | [preview](${preview})` : "";
-  return `- ${title}: ${repo}${preview}`;
+  return `- ${title}: 
+${description || ""}
+${repo}${preview}
+`;
 }).join("\n")}
 ### NVIM
 ${PROJECT_NVIM.map((name) => `- [${name}](https://github.com/muryp/${name})`).join("\n")}
