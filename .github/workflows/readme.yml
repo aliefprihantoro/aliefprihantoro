@@ -5,7 +5,7 @@ on:
     branches:
       - master
     paths:
-      - "bin/updateReadme.js"
+      - "bin/**"
       - ".github/workflows/readme.yml"
       - "data/**"
       - "!data/**/*.txt"
