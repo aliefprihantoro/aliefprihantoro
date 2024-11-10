@@ -29,11 +29,8 @@ Hello, I'm alif. I can build fullstack web apps with: typescript, tailwind, astr
 - personal web: [repo](https://github.com/alifprihantoro/web) | [preview](https://alifprihantoro.vercel.app/)
 - Todo Quest: [repo](https://github.com/muryp/quest-todo) | [preview](https://muryp.github.io/quest-todo)
 - Web News (Pawarta): [repo](https://github.com/alifprihantoro/pawartatech) | [preview](https://pawartatech.blogspot.com/)
-- web v1 from muryp: [repo](https://github.com/muryp/web)
 - project api to learn from dicoding: [repo](https://github.com/alifprihantoro/dicoding-restaurant-app)
-- web to promote serabi v1: [repo](https://github.com/alifprihantoro/serabi)
 - project learn from freecode camp: [repo](https://github.com/alifprihantoro/freecode-camp)
-- old theme muryp: [repo](https://github.com/alifprihantoro/muryp-new)
 - project api to learn from dicoding: [repo](https://github.com/alifprihantoro/tugas-dicoding-bakend-api-book-app)
 ### NVIM
 - [muryp-gh.nvim](https://github.com/muryp/muryp-gh.nvim)
