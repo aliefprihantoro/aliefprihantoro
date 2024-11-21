@@ -6,7 +6,7 @@
 Hello, I'm alif. I can build fullstack web apps with: typescript, tailwind, astrojs, etc. I love sharing information about linux, open source, neovim, and web.
 
 
-[![CV](https://img.shields.io/badge/CV-Download-informational?style=flat&logo=googledocs&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)](assets/CV_ALIEF_PRIHANTORO_November-10-2024.pdf)
+[![CV](https://img.shields.io/badge/CV-Download-informational?style=flat&logo=googledocs&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)](assets/CV_ALIEF_PRIHANTORO_November-21-2024.pdf)
 
 ## CONTACT
 ![telp](https://img.shields.io/badge/+6283_8293_83123-Call_Me!-informational?style=flat&logo=whatsapp&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
@@ -50,13 +50,24 @@ Template blogger. With astrojs, vite, tailwindcss, etc
 
 
 
-### NVIM
+### JS/TS PLUG
+- Vite plugins HTML ([repo](https://github.com/muryp/vite-plug-html) | [preview](https://github.com/alifprihantoro/pawartatech))
+
+use pure js/ts in astro (just not use any framework). This plugin just remove html\` into \` and minify.
+
+- Router Dom ([repo](https://github.com/muryp/pkgs.js/tree/main/pkgs/router-dom))
+
+use router dom for no framework/agnostic.
+
+### NVIM PLUG
 - [muryp-gh.nvim](https://github.com/muryp/muryp-gh.nvim)
 - [muryp-link.nvim](https://github.com/muryp/muryp-link.nvim)
 - [muryp-checklist.nvim](https://github.com/muryp/muryp-checklist.nvim)
 - [muryp-file.nvim](https://github.com/muryp/muryp-file.nvim)
 
 ## CERTIVICATE
+- [Menjadi Front-End Web Developer Expert](https://www.dicoding.com/certificates/NVP7958ERZR0): Dicoding Indonesia | Jan 2023 - Jan 2026
+- [Belajar Membuat Aplikasi Back-End untuk Pemula](https://www.dicoding.com/certificates/N9ZOME70DPG5): Dicoding Indonesia | Apr 2024 - Apr 2027
 - [Front End Development Libraries](https://freecodecamp.org/certification/alifmuryp/front-end-development-libraries): freeCodeCamp | Jul 2022
 - [JavaScript Algorithms and Data Structures](https://freecodecamp.org/certification/alifmuryp/javascript-algorithms-and-data-structures): freeCodeCamp | Jul 2022
 - [Belajar Dasar Pemrograman Web](https://www.dicoding.com/certificates/6RPND1DWRZ2M): Dicoding Indonesia | Jun 2022 - Jun 2025
