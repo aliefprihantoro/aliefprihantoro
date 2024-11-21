@@ -53,6 +53,7 @@ export default function () {
           .text(description || "");
       });
     });
+    doc.moveDown();
     heading(doc, "PROJECT JS/TS");
     PROJECT_JS.forEach(({ title, repo, description }) => {
       List(doc, (docc) => {
