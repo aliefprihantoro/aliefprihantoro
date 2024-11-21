@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Vite plugins HTML",
+    "repo": "muryp/vite-plug-html",
+    "description": "use pure js/ts in astro (just not use any framework). This plugin just remove html\\` into \\` and minify.",
+    "preview": [
+      "https://github.com/alifprihantoro/pawartatech"
+    ]
+  },
+  {
+    "title": "Router Dom",
+    "repo": "muryp/pkgs.js/tree/main/pkgs/router-dom",
+    "description": "use router dom for no framework/agnostic."
+  }
+]

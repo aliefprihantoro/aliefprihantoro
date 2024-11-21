@@ -22,6 +22,10 @@ export const TECH = jsonToObj("./data/tech.json");
  */
 export const PROJECT_WEB = jsonToObj("./data/project/web.json");
 /**
+ * @type {{title:string,repo:string,preview?:string[]}[]}
+ */
+export const PROJECT_JS = jsonToObj("./data/project/js.json");
+/**
  * @type {string[]}
  */
 export const PROJECT_NVIM = jsonToObj("./data/project/nvim.json");

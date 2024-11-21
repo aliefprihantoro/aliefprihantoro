@@ -1,4 +1,10 @@
-import { CERTIVICATE, PROJECT_NVIM, PROJECT_WEB, TECH } from "../data.mjs";
+import {
+  CERTIVICATE,
+  PROJECT_JS,
+  PROJECT_NVIM,
+  PROJECT_WEB,
+  TECH,
+} from "../data.mjs";
 import header from "./component/header.mjs";
 import heading from "./component/heading.mjs";
 import Layouts from "./component/layouts.mjs";
@@ -37,6 +43,18 @@ export default function () {
     doc.moveDown();
     heading(doc, "PROJECT WEB");
     PROJECT_WEB.forEach(({ title, repo, description }) => {
+      List(doc, (docc) => {
+        docc
+          .fontSize(10)
+          .text(title, {
+            link: "https://github.com/" + repo,
+          })
+          .font("regular")
+          .text(description || "");
+      });
+    });
+    heading(doc, "PROJECT JS/TS");
+    PROJECT_JS.forEach(({ title, repo, description }) => {
       List(doc, (docc) => {
         docc
           .fontSize(10)
