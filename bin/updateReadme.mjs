@@ -8,6 +8,7 @@ import {
   PROJECT_NVIM,
   CV_PATH,
   HEADER,
+  PROJECT_JS,
 } from "./data.mjs";
 
 export default function () {
@@ -56,7 +57,16 @@ ${PROJECT_WEB.map(({ title, repo, preview, description }) => {
 ${description || ""}
 `;
 }).join("\n")}
-### NVIM
+### JS/TS PLUG
+${PROJECT_JS.map(({ title, repo, preview, description }) => {
+  repo = `[repo](https://github.com/${repo})`;
+  preview = preview ? ` | [preview](${preview[0]})` : "";
+  return `- ${title} (${repo}${preview})
+
+${description || ""}
+`;
+}).join("\n")}
+### NVIM PLUG
 ${PROJECT_NVIM.map((name) => `- [${name}](https://github.com/muryp/${name})`).join("\n")}
 `;
 
