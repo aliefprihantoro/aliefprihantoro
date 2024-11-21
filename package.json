@@ -5,7 +5,7 @@
   "author": "alifprihantoro",
   "type": "module",
   "scripts": {
-    "readme": "node ./bin/index.mjs"
+    "readme": "rm ./assets/*.pdf && node ./bin/index.mjs"
   },
   "dependencies": {
     "pdfkit": "^0.15.0"
